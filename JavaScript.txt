@@ -10,12 +10,12 @@
    ✅ More about variable.
    ✅ Let.
    ✅ Const.
-   - String Indexing.
-   - Useful string methods.
-   - Template Strings.
-   - Null, undefined, BigInt, typeof.
-   - Booleans and Comparison Operator.
-   - Truthy and Falsy Values.
+   ✅ String Indexing.
+   ✅ Useful string methods.
+   ✅ Template Strings.
+   ✅ Null, undefined, BigInt, typeof.
+   ✅ Booleans and Comparison Operator.
+   ✅ Truthy and Falsy Values.
    - If else statement.
    - Ternary Operator.
    - && || operator.
